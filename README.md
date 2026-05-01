@@ -1,6 +1,6 @@
 
 
-# Operations Research Models using Gurobi (Python)
+# Operations Research Problems using Gurobi (Python)
 
 This repository contains a collection of **Operations Research (OR) optimization problems** implemented using Gurobi in Python.
 
